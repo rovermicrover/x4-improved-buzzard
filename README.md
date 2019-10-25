@@ -8,9 +8,9 @@ The Buzzard is an Eclipse sans one weapon. This mod aims to make the Buzzard uni
 
 # Links
 
-[Egosoft Forum](https://forum.egosoft.com/viewtopic.php)
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419600)
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=)
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1897985229)
 
 [Github](https://github.com/rovermicrover/x4-improved-buzzard)
 
